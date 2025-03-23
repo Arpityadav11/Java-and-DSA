@@ -1,4 +1,4 @@
-class Solution {
+class threeDivisor {
     public boolean isThree(int n) {
         int divisors= 0;
         for(int i=1;i<=n;i++){
