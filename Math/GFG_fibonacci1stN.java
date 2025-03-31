@@ -1,4 +1,4 @@
-class GFG_fibonacci1stN {
+class Solution {
     // Function to return list containing first n fibonacci numbers.
     public static int[] fibonacciNumbers(int n) {
         int arr[] = new int[n];
